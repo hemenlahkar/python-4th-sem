@@ -1,3 +1,5 @@
+# Write a program to take input of two numbers and print their sum, product, difference.
+
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 

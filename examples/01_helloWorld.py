@@ -1,3 +1,5 @@
+# WAP to print "Hello World"
+
 import time as t
 str = "Hello World!"
 alphabet = "abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ!"

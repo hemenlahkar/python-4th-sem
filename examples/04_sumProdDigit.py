@@ -1,3 +1,5 @@
+# Write a program to print the sum and product of digits of an integer.
+
 a = int(input("Enter a number: "))
 sum, prod = 0, 1
 

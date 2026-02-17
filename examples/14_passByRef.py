@@ -1,3 +1,4 @@
+# Write a program in which a function is passed address of two variables and then alter its contents.
 def swap(lst):
     lst[0], lst[1] = lst[1], lst[0]
 

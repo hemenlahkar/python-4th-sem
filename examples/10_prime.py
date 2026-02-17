@@ -1,3 +1,5 @@
+# Write a function to find whether a given no. is prime or not. Use the same to generate the prime numbers less than 100.
+
 def isPrime(n):
     if n == 2:
         return True

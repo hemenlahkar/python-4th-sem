@@ -1,3 +1,8 @@
+'''
+Write a program to compute the sum of the first n terms of the following series
+        S =1-2+3-4+5......
+'''
+
 n = int(input("Enter number of terms: "))
 
 s, sign = 0, 1

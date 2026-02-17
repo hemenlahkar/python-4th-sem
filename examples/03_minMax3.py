@@ -1,3 +1,5 @@
+# Write a program to find the smallest or greatest of three numbers given as input.
+
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 c = int(input("Enter third number: "))

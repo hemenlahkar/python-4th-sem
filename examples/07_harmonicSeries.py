@@ -1,3 +1,8 @@
+'''
+Write a program to compute the sum of the first n terms of the following series
+        S = 1+1/2+1/3+1/4+......
+'''
+
 n = int(input("Enter the number of terms: "))
 s = 0
 
